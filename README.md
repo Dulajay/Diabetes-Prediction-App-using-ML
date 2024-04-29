@@ -1,15 +1,12 @@
 # Diabetes-Prediction-App-using-ML
 
-[![Diabetes Prediction App](https://github.com/Dulajay/Diabetes-Prediction-App-using-ML/blob/main/diabetes%20app%20img.JPG)](https://github.com/Dulajay/Diabetes-Prediction-App-using-ML/blob/main/Diabetes%20detection%20app.mp4)
+![Diabetes Prediction App](https://github.com/Dulajay/Diabetes-Prediction-App-using-ML/blob/main/diabetes%20app%20img.JPG)
 
-Click the image above to watch the demo video.
-
-
-This repository contains a machine learning-based web application for predicting diabetes. The prediction model is built using the Random Forest Classification algorithm, and the app is developed using Streamlit.
-
+ [Watch on YouTube](https://youtu.be/P6NPsEsvLbs)
+ 
 ## Overview
-
-The Diabetes Prediction App allows users to input relevant health data and receive a prediction on whether they are likely to have diabetes. The model is trained on a dataset containing various health indicators to provide accurate predictions.
+This repository contains a machine learning-based web application for predicting diabetes. The prediction model is built using the Random Forest Classification algorithm, and the app is developed using Streamlit.
+The App allows users to input relevant health data and receive a prediction on whether they are likely to have diabetes. The model is trained on a dataset containing various health indicators to provide accurate predictions.
 
 ## Features
 
